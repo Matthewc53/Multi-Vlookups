@@ -6,7 +6,7 @@ using python to hard code multiple excel vlookups
 2. Create slice for each carrier requested
 ![image](https://github.com/Matthewc53/Multi-Vlookups/assets/31051617/bf41ae07-678a-4597-93e1-c35019c4559e)
 
-3. Perform right join to combine the two data files
+3. Perform right join to combine the two data files(We are using the Primary Reference column as out Unique identifier)
 ![image](https://github.com/Matthewc53/Multi-Vlookups/assets/31051617/42ccfb00-8036-4b19-8044-ee2b8ce523b0)
 
 4. Add in new linehaul column for each carrier
